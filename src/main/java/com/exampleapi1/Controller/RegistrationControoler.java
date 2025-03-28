@@ -72,4 +72,6 @@ public class RegistrationControoler {
     return new ResponseEntity<>(reg,HttpStatus.OK);
 }
 
+//sandeep bhajantri
+
 }
