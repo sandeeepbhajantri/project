@@ -70,7 +70,6 @@ public class RegistrationControoler {
          return new ResponseEntity<>(reg,HttpStatus.OK);
      }
     return new ResponseEntity<>(reg,HttpStatus.OK);
+   String x = "51";
 }
-
-
 }
