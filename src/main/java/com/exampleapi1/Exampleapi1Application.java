@@ -7,7 +7,8 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class Exampleapi1Application {
-               // Root Class
+                int x = 10 ;
+                char v  = 'a' ;
 	public static void main(String[] args) {
 		SpringApplication.run(Exampleapi1Application.class, args);
 	}
