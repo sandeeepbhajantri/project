@@ -70,8 +70,6 @@ public class RegistrationControoler {
          return new ResponseEntity<>(reg,HttpStatus.OK);
      }
     return new ResponseEntity<>(reg,HttpStatus.OK);
+        float c = 12.0f;
 }
-
-float c = 12.0f;
-
 }
