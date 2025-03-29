@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 public class Exampleapi1Application {
                 int x = 10 ;
                 char v  = 'a' ;
-          String v = "sandeep" ;
+          String s = "sandeep" ;
 	public static void main(String[] args) {
 		SpringApplication.run(Exampleapi1Application.class, args);
 	}
