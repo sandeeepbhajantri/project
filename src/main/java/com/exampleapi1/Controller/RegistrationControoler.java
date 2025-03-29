@@ -72,6 +72,6 @@ public class RegistrationControoler {
     return new ResponseEntity<>(reg,HttpStatus.OK);
 }
 
-int x = 100;
+float c = 12.0f;
 
 }
